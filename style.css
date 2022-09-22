@@ -33,3 +33,6 @@ a{
     color:bisque
 }
 
+.capeta {
+    display: flex;
+}
