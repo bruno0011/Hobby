@@ -33,6 +33,12 @@ a{
     color:bisque
 }
 
+
+.maria {
+    height: 25%;
+}
+
 .capeta {
     display: flex;
+    justify-content: space-between;
 }
